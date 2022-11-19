@@ -1,0 +1,43 @@
+*{
+           margin: 0;
+           padding: 0;
+}
+body{
+       color:white ;
+       font-family: 'Roboto Slab', sans-serif;
+       background: #12121f;
+}
+ div.register{
+     background: #161623;
+     border: 1px solid slateblue;
+     width: 50%;
+     font-size: 18px;
+     border-radius: 10px;
+     
+
+}
+
+.submit {
+    padding: .5rem 1rem;
+    background: #003f5c;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.submit:hover {
+       
+    background: white;
+    color: #f96966;
+}
+
+input {
+    font-family: 'Roboto Slab', sans-serif;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 0.9em;
+}
+
